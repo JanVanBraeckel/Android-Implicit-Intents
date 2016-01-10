@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidIntentsTwo</string>
+    <string name="title_activity_main">AndroidIntentsTwo</string>
+    <string name="hint">\"developer.android.com\" or \"android\"</string>
+    <string name="openUrl">Open site with this url</string>
+    <string name="openGoogle">Search google</string>
+    <string name="openDialer">Open dialer</string>
+    <string name="openContacts">Open contacts</string>
+    <string name="startVoiceCommand">Start voice command</string>
+    <string name="noActivity">No app found that can do this action</string>
+</resources>
